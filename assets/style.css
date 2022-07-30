@@ -1,0 +1,59 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+.bg-shop {
+    background: #636363;
+    background: -webkit-linear-gradient(to right, #a2ab58, #636363);  
+    background: linear-gradient(to right, #a2ab58, #636363);
+
+}
+
+.navbar-light .menu1 li:last-child .nav-link {
+    color: rgb(0, 0, 0);
+}
+.col-md-3{
+    height: 200px;
+    
+}
+.nav-link {
+    color: #636363;
+}
+
+.maiusculas {
+    text-transform: uppercase;
+}
+
+.badge {
+    margin-left: -12px;
+}
+
+.m-High {
+    margin-top: 13px;
+}
+
+.entre-letras {
+    letter-spacing: 5px;
+}
+
+.text-grizzly{
+   color: #636363;
+
+    
+}
+.li{
+    list-style-type: none;
+   
+}
+
+.bg-primary{
+    background: #636363;
+    background: -webkit-linear-gradient(to right, #a2ab58, #636363);  
+    background: linear-gradient(to right, #a2ab58, #636363); 
+}
+
+.formas-pagamento-flags{
+    background-size: 100%;
+    height: 166px;
+    width: 135px;
+    margin-left: 30px;
+}
